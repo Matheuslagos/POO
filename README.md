@@ -1,2 +1,2 @@
-# POO-lista1
+# POO
 Exercícios e testes
